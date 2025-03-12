@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "cdb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e91019b3-8d85-4cbd-8dd7-b27a602dfb89",
+      "database_name": "zhrexx"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
